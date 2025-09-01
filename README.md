@@ -1,4 +1,4 @@
-# 3162 Project 1
+# Data Mining (ITCS 3162) Project 1
 <b>meow meow</b>
 <H2>Introduction to the Problem</H2>
 <b>Start introducing the problem here</b>
