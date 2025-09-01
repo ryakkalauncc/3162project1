@@ -14,7 +14,7 @@
 <b>add information about Impact here</b>
 <h2>References</h2>
 <b>add references here</b>
-<ol>1. </ol>
-<ol>2. </ol>
-<ol>3. </ol>
-<ol>4. </ol>
+<ul>1. </ul>
+<ul>2. </ul>
+<ul>3. </ul>
+<ul>4. </ul>
