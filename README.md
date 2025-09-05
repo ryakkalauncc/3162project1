@@ -6,7 +6,8 @@
 <h2>Pre-processing the Data</h2>
 <b>The data was already free of nulls when I first opened it however I still made sure the column names were consistent and checked for other errors in consistency. I did this by loading the csv file (StressLevelDataset.csv) into pandas and did a few checks. For the most part the data was numerical and formatted in a way that works for me. This dataset was ready for analysis and visualization.</b>
 <h2>Data Understanding/Visualization</h2>
-<b>Once my dataset was cleaned up I started looking for trends and patterns as well as just explored the dataset by comparing different variables. I wanted to see how academic performance ranked for different students compared to their stress levels so I created a bar graph that showcased both variables together and observed the result. </b>
+<b>Once my dataset was cleaned up I started looking for trends and patterns as well as just explored the dataset by comparing different variables. I wanted to see how academic performance ranked for different students compared to their stress levels so I created a bar graph that showcased both variables together and observed the result.</b>
+<img width="695" height="542" alt="download" src="https://github.com/user-attachments/assets/1652ba7f-400e-4e2f-a8c5-c82adf814d21" />
 <h2>Findings/Analysis</h2>
 <b>storytelling information here</b>
 <h2>Impact Section</h2>
