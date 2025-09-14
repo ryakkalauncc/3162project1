@@ -17,7 +17,7 @@ print(stress_df_clean) </ul>
 <img width="650" height="465" alt="download" src="https://github.com/user-attachments/assets/bd3f454c-0878-4fc6-b338-c3b4cbef16e6" />
 <img width="2690" height="1000" alt="download" src="https://github.com/user-attachments/assets/6137f4f1-44e2-45fe-b300-5f4a3c4be1d0" />
 
-<h2>Findings/Analysis</h2>
+<h2>Storytelling/Findings</h2>
 <b>storytelling information here</b>
 <h2>Impact Section</h2>
 <b>add information about Impact here</b>
