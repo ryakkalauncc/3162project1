@@ -11,7 +11,9 @@ print(stress_df_clean) </ul>
 <h2>Data Understanding/Visualization</h2>
 <b>Once my dataset was cleaned up I started looking for trends and patterns as well as just explored the dataset by comparing different variables. I wanted to see how academic performance ranked for different students compared to their stress levels so I created a bar graph that showcased both variables together and observed the result.</b>
 <img width="695" height="542" alt="download" src="https://github.com/user-attachments/assets/1652ba7f-400e-4e2f-a8c5-c82adf814d21" />
-<img width="1096" height="870" alt="download" src="https://github.com/user-attachments/assets/479e09aa-016d-4c22-96c3-afb60c2b821e" />
+<b>The heatmap visualises the correlation between all numeric variables in the dataset. Darker or lighter cells indicate stronger positive or negative associations. This helps identify which factors appear most strongly linked with stress.</b>
+<img width="980" height="830" alt="download" src="https://github.com/user-attachments/assets/479e09aa-016d-4c22-96c3-afb60c2b821e" />
+<b>Here we’ve grouped individual variables into the 5 broad categories discussed psychological, physiological, environmental, academic, and socia. I then calculated each category’s average correlation with stress. The bars show which domains contribute most to stress, making it easier to see patterns at a higher level.</b>
 <img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/11f4805f-6655-409e-bca1-5b2440bd3e4e" />
 <img width="709" height="612" alt="download" src="https://github.com/user-attachments/assets/bc015a5d-ac1a-4895-813b-d35f81b5e6af" />
 <img width="650" height="465" alt="download" src="https://github.com/user-attachments/assets/bd3f454c-0878-4fc6-b338-c3b4cbef16e6" />
