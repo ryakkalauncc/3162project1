@@ -15,8 +15,11 @@ print(stress_df_clean) </ul>
 <img width="980" height="830" alt="download" src="https://github.com/user-attachments/assets/479e09aa-016d-4c22-96c3-afb60c2b821e" />
 <b>Here we’ve grouped individual variables into the 5 broad categories discussed psychological, physiological, environmental, academic, and socia. I then calculated each category’s average correlation with stress. The bars show which domains contribute most to stress, making it easier to see patterns at a higher level.</b>
 <img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/11f4805f-6655-409e-bca1-5b2440bd3e4e" />
-<img width="709" height="612" alt="download" src="https://github.com/user-attachments/assets/bc015a5d-ac1a-4895-813b-d35f81b5e6af" />
+<b>This scatter plot with a regression line shows the relationship between sleep quality and stress level for all students. The downward slope indicates that, on average, students with better sleep quality tend to report lower stress.</b>
+<img width="650" height="500" alt="download" src="https://github.com/user-attachments/assets/bc015a5d-ac1a-4895-813b-d35f81b5e6af" />
+<b>In the combined plot, each academic performance group is shown in a different colour, with its own regression line. This allows direct comparison of how the sleep–stress relationship differs across performance levels in a single view.</b>
 <img width="650" height="465" alt="download" src="https://github.com/user-attachments/assets/bd3f454c-0878-4fc6-b338-c3b4cbef16e6" />
+<b>In the faceted version, the same relationship is plotted separately for each academic performance group. This removes overlap and makes it easier to see within-group trends without distraction from other groups.</b>
 <img width="2690" height="1000" alt="download" src="https://github.com/user-attachments/assets/6137f4f1-44e2-45fe-b300-5f4a3c4be1d0" />
 
 <h2>Storytelling/Findings</h2>
