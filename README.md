@@ -11,6 +11,12 @@ print(stress_df_clean) </ul>
 <h2>Data Understanding/Visualization</h2>
 <b>Once my dataset was cleaned up I started looking for trends and patterns as well as just explored the dataset by comparing different variables. I wanted to see how academic performance ranked for different students compared to their stress levels so I created a bar graph that showcased both variables together and observed the result.</b>
 <img width="695" height="542" alt="download" src="https://github.com/user-attachments/assets/1652ba7f-400e-4e2f-a8c5-c82adf814d21" />
+<img width="1096" height="870" alt="download" src="https://github.com/user-attachments/assets/479e09aa-016d-4c22-96c3-afb60c2b821e" />
+<img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/11f4805f-6655-409e-bca1-5b2440bd3e4e" />
+<img width="709" height="612" alt="download" src="https://github.com/user-attachments/assets/bc015a5d-ac1a-4895-813b-d35f81b5e6af" />
+<img width="650" height="465" alt="download" src="https://github.com/user-attachments/assets/bd3f454c-0878-4fc6-b338-c3b4cbef16e6" />
+<img width="2690" height="900" alt="download" src="https://github.com/user-attachments/assets/6137f4f1-44e2-45fe-b300-5f4a3c4be1d0" />
+
 <h2>Findings/Analysis</h2>
 <b>storytelling information here</b>
 <h2>Impact Section</h2>
