@@ -19,7 +19,7 @@ print(stress_df_clean) </ul>
 
 <h2>Storytelling/Findings</h2>
 <b>storytelling information here</b>
-<h2>Impact Section</h2>
+<h2>Impact</h2>
 <b>add information about Impact here</b>
 <h2>References</h2>
 <b>add references here</b>
