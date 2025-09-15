@@ -11,19 +11,19 @@ print(stress_df_clean) </ul>
 <h2>Data Understanding/Visualization</h2>
 <b>Once my dataset was cleaned up I started looking for trends and patterns as well as just explored the dataset by comparing different variables. I wanted to see how academic performance ranked for different students compared to their stress levels so I created a bar graph that showcased both variables together and observed the result.</b>
 <img width="695" height="542" alt="download" src="https://github.com/user-attachments/assets/1652ba7f-400e-4e2f-a8c5-c82adf814d21" />
-<b>The heatmap visualises the correlation between all numeric variables in the dataset. Darker or lighter cells indicate stronger positive or negative associations. This helps identify which factors appear most strongly linked with stress.</b>
+<b>The heatmap visualizes the correlation between all numeric variables in the dataset. Darker or lighter cells indicate stronger positive or negative associations. This helps identify which factors appear most strongly linked with stress.</b>
 <img width="980" height="830" alt="download" src="https://github.com/user-attachments/assets/479e09aa-016d-4c22-96c3-afb60c2b821e" />
-<b>Here we’ve grouped individual variables into the 5 broad categories discussed psychological, physiological, environmental, academic, and socia. I then calculated each category’s average correlation with stress. The bars show which domains contribute most to stress, making it easier to see patterns at a higher level.</b>
+<b>Here we’ve grouped individual variables into the 5 broad categories discussed psychological, physiological, environmental, academic, and social. I then calculated each category’s average correlation with stress. The bars show which domains contribute most to stress, making it easier to see patterns at a higher level.</b>
 <img width="790" height="590" alt="download" src="https://github.com/user-attachments/assets/11f4805f-6655-409e-bca1-5b2440bd3e4e" />
 <b>This scatter plot with a regression line shows the relationship between sleep quality and stress level for all students. The downward slope indicates that, on average, students with better sleep quality tend to report lower stress.</b>
 <img width="650" height="500" alt="download" src="https://github.com/user-attachments/assets/bc015a5d-ac1a-4895-813b-d35f81b5e6af" />
-<b>In the combined plot, each academic performance group is shown in a different colour, with its own regression line. This allows direct comparison of how the sleep–stress relationship differs across performance levels in a single view.</b>
+<b>In the combined plot, each academic performance group is shown in a different color, with its own regression line. This allows direct comparison of how the sleep–stress relationship differs across performance levels in a single view.</b>
 <img width="650" height="465" alt="download" src="https://github.com/user-attachments/assets/bd3f454c-0878-4fc6-b338-c3b4cbef16e6" />
 <b>In the faceted version, the same relationship is plotted separately for each academic performance group. This removes overlap and makes it easier to see within-group trends without distraction from other groups.</b>
 <img width="2690" height="1000" alt="download" src="https://github.com/user-attachments/assets/6137f4f1-44e2-45fe-b300-5f4a3c4be1d0" />
 
 <h2>Storytelling/Findings</h2>
-<b>storytelling information here</b>
+<b>After analyzing my data I found a few relevant takeaways. From the heatmap I was able to deduct the individual factors that have the strongest direct effect on stress_level. Bullying having the highest Pearson Correlation Coefficient at 0.75 with factors such as future_career_concerns(0.74), anxiety_level(0.74), and depression(0.73) following.The heatmap gave the most in depth induvidual breakdown on how students are effected by each factor and how each of the factors effects each other and observing how the positive and negative correlation coefficients change is very important.  </b>
 <h2>Impact</h2>
 <b>add information about Impact here</b>
 <h2>References</h2>
