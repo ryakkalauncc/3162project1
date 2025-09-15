@@ -27,7 +27,5 @@ From the category-level correlations bar chart, we can see that social stressors
 <h2>Impact</h2>
 <b>add information about Impact here</b>
 <h2>References</h2>
-<ul>1. https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets?resource=download </ul>
-<ul>2. </ul>
-<ul>3. </ul>
-<ul>4. </ul>
+<b>https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets?resource=download </b>
+
