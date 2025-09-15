@@ -1,4 +1,4 @@
-# Student Stress and Academic Performance
+# Student Stress, Academic Performance, and Sleep Quality
 <b></b>
 <H2>Introduction to the Problem</H2>
 <b>For this project I picked the student stress monitoring dataset. The dataset explores the cause of student stress in college students between the ages of 18-21 all across the United States. This dataset is based off the responses of 843 different college students across the country, the survey contained 25 different questions and student responses were condensed into 20 different key features that are grouped into 5 main categories: Psychological factors, Physiological factors, Environmental factors, Academic factors, and Social factors. My hope is to figure out which factors most impact stress levels and which category holds the most impact on the daily life of college students in the United States.</b>
